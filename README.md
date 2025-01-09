@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ak2303
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Aklovya Gupta
+- ✨ I am IITJ '23 CSE Graduate 
+- 👀 I’m interested in Mathematics, Quantitative Analysis and Finance, Software Development and Machine Learning
+- 🌱 I’m currently working as Quantitative Analyst at a HFT firm
+- 📫 How to reach me - ak2305.2001@gmail.com or [LinkedIn](https://www.linkedin.com/in/aklovya-gupta/)
 
 <!---
 Ak2303/Ak2303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
